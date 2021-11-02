@@ -17,7 +17,7 @@ function SingleCard({ card, handleChoice, flipped }) {
               />
               <img 
                 className="back" 
-                src="/img/cover.png" 
+                src="/img/kid/cover-1.png" 
                 onClick={handleClick} 
                 alt="card back" 
               />
