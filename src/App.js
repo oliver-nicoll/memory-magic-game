@@ -88,6 +88,9 @@ function App() {
           />
         ))}
       </div>
+      <div>
+        <h4>Turns: {turns}</h4>
+      </div>
     </div>
   );
 }
